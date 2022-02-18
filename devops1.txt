@@ -1,1 +1,5 @@
-This is all about DevOps.
+This is all about DevOps service.
+
+Devops is combination of development & operation.
+
+
